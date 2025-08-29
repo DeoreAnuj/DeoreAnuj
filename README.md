@@ -1,3 +1,5 @@
+# 💫 Hi 👋, I'm Anuj Deore
+
 # 💫 About Me:
 A passionate Salesforce Developer || Java Enthusiast || DevOps Learner<br><br>📩 Email Me 👉 ✉️ anujdeore999@gmail.com<br><br>🔭 I’m currently working on: Salesforce Development<br>🌱 I’m currently learning: DevOps (Docker, Kubernetes) <br>👯 I’m looking to collaborate on: Salesforce, Java, and Cloud Projects<br>💬 Ask me about: Salesforce, Java, DevOps, Data Analytics<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love automating everything — from code to coffee ☕
 
